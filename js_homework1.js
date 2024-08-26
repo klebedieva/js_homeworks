@@ -121,7 +121,7 @@ string (number+letters) - number = NaN - mumber = NaN
 /* console.log((+null == false)) < 1 ** 5; */
 /* 
 1. +null == false = false == false
-2. 0 == 0
+2. 0 == 0 = true
 3. 1 ** 5 = 1
-4. 0 < 1 = true 
+4. true < 1 = 1 < 1 = false 
 */
